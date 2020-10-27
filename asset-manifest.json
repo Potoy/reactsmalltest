@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacsmalltest/static/css/main.5d9eff6e.chunk.css",
+    "main.js": "/reacsmalltest/static/js/main.655e8820.chunk.js",
+    "main.js.map": "/reacsmalltest/static/js/main.655e8820.chunk.js.map",
+    "runtime-main.js": "/reacsmalltest/static/js/runtime-main.793412b3.js",
+    "runtime-main.js.map": "/reacsmalltest/static/js/runtime-main.793412b3.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/reacsmalltest/index.html",
+    "precache-manifest.62493c886f4101e458a75f8b56aeadf0.js": "/reacsmalltest/precache-manifest.62493c886f4101e458a75f8b56aeadf0.js",
+    "service-worker.js": "/reacsmalltest/service-worker.js",
+    "static/css/main.5d9eff6e.chunk.css.map": "/reacsmalltest/static/css/main.5d9eff6e.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reacsmalltest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.793412b3.js",
+    "static/js/2.2eaf0afe.chunk.js",
+    "static/css/main.5d9eff6e.chunk.css",
+    "static/js/main.655e8820.chunk.js"
+  ]
+}
