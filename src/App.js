@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { CardList } from "./components/card-list/card-list.component";
 import { SearchBox } from "./components/search-box/search-box.component";
 
-import logo from "./logo.svg";
 import "./App.css";
 
 //function App() {}
