@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/reacsmalltest/static/css/main.5d9eff6e.chunk.css",
-    "main.js": "/reacsmalltest/static/js/main.655e8820.chunk.js",
-    "main.js.map": "/reacsmalltest/static/js/main.655e8820.chunk.js.map",
-    "runtime-main.js": "/reacsmalltest/static/js/runtime-main.793412b3.js",
-    "runtime-main.js.map": "/reacsmalltest/static/js/runtime-main.793412b3.js.map",
-    "static/js/2.2eaf0afe.chunk.js": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js",
-    "static/js/2.2eaf0afe.chunk.js.map": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js.map",
-    "index.html": "/reacsmalltest/index.html",
-    "precache-manifest.62493c886f4101e458a75f8b56aeadf0.js": "/reacsmalltest/precache-manifest.62493c886f4101e458a75f8b56aeadf0.js",
-    "service-worker.js": "/reacsmalltest/service-worker.js",
-    "static/css/main.5d9eff6e.chunk.css.map": "/reacsmalltest/static/css/main.5d9eff6e.chunk.css.map",
-    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/reacsmalltest/static/js/2.2eaf0afe.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reacsmalltest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/reactsmalltest/static/css/main.5d9eff6e.chunk.css",
+    "main.js": "/reactsmalltest/static/js/main.727ce00f.chunk.js",
+    "main.js.map": "/reactsmalltest/static/js/main.727ce00f.chunk.js.map",
+    "runtime-main.js": "/reactsmalltest/static/js/runtime-main.689656be.js",
+    "runtime-main.js.map": "/reactsmalltest/static/js/runtime-main.689656be.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/reactsmalltest/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/reactsmalltest/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/reactsmalltest/index.html",
+    "precache-manifest.b188f6c6955338f076b0ae678398e141.js": "/reactsmalltest/precache-manifest.b188f6c6955338f076b0ae678398e141.js",
+    "service-worker.js": "/reactsmalltest/service-worker.js",
+    "static/css/main.5d9eff6e.chunk.css.map": "/reactsmalltest/static/css/main.5d9eff6e.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/reactsmalltest/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.793412b3.js",
+    "static/js/runtime-main.689656be.js",
     "static/js/2.2eaf0afe.chunk.js",
     "static/css/main.5d9eff6e.chunk.css",
-    "static/js/main.655e8820.chunk.js"
+    "static/js/main.727ce00f.chunk.js"
   ]
 }
